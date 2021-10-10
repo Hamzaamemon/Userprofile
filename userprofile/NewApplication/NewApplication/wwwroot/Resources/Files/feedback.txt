@@ -1,0 +1,46 @@
+
+feedback
+
+
+textbox icon bottom white space 10 mint --done
+ 
+add guards 10mint --done
+
+alignment same on accounts management all page 5 mint --done
+
+disable verify button on less than 4     2mint  --done
+
+signup page icon change 2mint  --done
+
+slide menu open in login screen on slide 15 mint  --done but check in mobile
+
+invalid code on alert 5mint  --done
+
+side menu show role wise and working in progress add 15min --done
+
+validation
+
+
+
+app icon
+splashscreen
+
+terms and condition design --done
+
+background jurk on page change 10 mints --done but check on mobile
+
+spacing from bottom 
+
+
+Sorry this feature is not available right now error
+
+
+
+roleId: 3 = 'Worker'
+roleId: 2 = 'Farmer'
+roleId: 4 = 'Trainer'
+
+
+
+
+

@@ -1,0 +1,247 @@
+<div class="kt-grid__item kt-grid__item--fluid kt-app__content">
+    <div class="row">
+        <div class="col-md-4">
+            <!--begin:: Widgets/Finance Summary-->
+            <div class="kt-portlet kt-portlet--height-fluid">
+                <!-- <div class="kt-portlet__head">
+                    <div class="kt-portlet__head-label">
+                        <h3 class="kt-portlet__head-title">
+                            {{ "TRANSLATOR.Personal_Info" | translate }}
+                            <span class="kt-header__topbar-username kt-hidden-mobile" >{{Hamza}}</span>
+                        </h3>
+                    </div>
+                </div> -->
+                <div class="kt-portlet__body">
+                    <div class="kt-widget kt-widget--user-profile-2">
+
+                        <div class="kt-widget__body">
+                            <div class="kt-widget__item">
+                                <div class="kt-widget__contact mb-4" style="display: inline-flex;">
+                                    <div class="user-image">
+                                        <!-- <img [src]="userData?.PictureUrl? userData.PictureUrl: '../../../../../assets/media/demo-profile.png'" alt=""> -->
+                                        <!-- <img src="../../../../../assets/media/demo-profile.png" alt="" /> -->
+                                        <img alt="Pic" [attr.src]="user?.data?.imagePath" class="user-image" />
+
+                                    </div>
+
+                                    <h5 class="kt-widget-username">
+                                        <!-- <mat-icon class="vertical-align">call</mat-icon> -->
+                                        {{FullName}}
+                                        <!-- {{ -->
+                                        <!-- "TRANSLATOR.Contact_Number"
+                                                | translate
+                                        }} -->
+                                    </h5>
+
+                                    <a class="kt-widget__data">
+                                        <!-- {{ -->
+                                        <!-- userData?.MobileNumber
+											? userData?.MobileNumber
+											: "N/A"
+                                    }} -->
+                                    </a>
+                                </div>
+                                <div class="kt-widget__contact mb-4">
+                                    <label class="kt-widget__label">Email:</label>
+                                    <span>
+                                        <!-- <mat-icon class="vertical-align">account_box</mat-icon>  -->
+                                        {{user?.data?.email}}
+                                    </span>
+                                    <a class="kt-widget__data">
+                                        <!-- {{
+										userData?.GuardianName
+											? userData?.GuardianName
+											: "N/A"
+                                    }} -->
+                                    </a>
+                                </div>
+                                <div class="kt-widget__contact mb-4">
+                                    <label class="kt-widget__label">Phone:</label>
+                                    <span>
+                                        {{user?.data?.phoneNumber}}
+                                        <!-- <mat-icon class="vertical-align">person</mat-icon> -->
+                                        <!-- {{
+										"TRANSLATOR.Gender" | translate
+									}} -->
+                                    </span>
+                                    <span class="kt-widget__data">
+                                        <!-- {{
+										userData?.Gender
+											? userData?.Gender == 2
+												? "Female"
+												: "Male"
+											: "N/A"
+                                    }} -->
+                                    </span>
+                                </div>
+                                <div class="kt-widget__contact mb-4">
+                                    <label class="kt-widget__label">Password:</label>
+                                    <span>
+                                        {{user?.data?.password}}
+                                        <!-- <mat-icon class="vertical-align">date_range</mat-icon> -->
+                                        <!-- {{
+										"TRANSLATOR.Date_of_Birth"
+											| translate
+									}} -->
+                                    </span>
+                                    <span class="kt-widget__data">
+                                        <!-- {{
+										(userData?.DOB ? userData?.DOB : "")
+											| date
+                                    }} -->
+                                    </span>
+                                </div>
+                                <div class="kt-widget__contact mb-4">
+                                    <span class="kt-widget__label">
+                                        <!-- <mat-icon class="vertical-align">chrome_reader_mode</mat-icon> -->
+                                        <!-- {{
+										"TRANSLATOR.Education" | translate
+									}} -->
+                                    </span>
+                                    <span class="kt-widget__data">
+                                        <!-- {{
+										userData?.EducationTypeName
+											? userData?.EducationTypeName
+											: "N/A"
+                                    }} -->
+                                    </span>
+                                </div>
+                                <div class="kt-widget__contact mb-4">
+                                    <span class="kt-widget__label">
+                                        <!-- <mat-icon class="vertical-align">lock_open</mat-icon> -->
+                                        <!-- {{
+										"AUTH.INPUT.PASSWORD" | translate
+									}} -->
+                                    </span>
+                                    <span class="kt-widget12__value">
+                                        <mat-icon class="mat-icon"></mat-icon>
+                                        <span *ngIf="visibility">
+                                            <!-- {{
+											userData?.Password
+                                        }} -->
+                                        </span>
+                                        <span *ngIf="!visibility">
+                                            <!-- {{
+											passwordEncrypted
+                                        }} -->
+                                        </span>
+                                        &nbsp; &nbsp; &nbsp; &nbsp;
+                                        <!-- <span *ngIf="!visibility" class="material-icons cursor-p" (click)="
+												changePasswordVisibility(true)
+											">
+											visibility
+										</span>
+										<span *ngIf="visibility" class="material-icons cursor-p" (click)="
+												changePasswordVisibility(false)
+											">
+											visibility_off
+										</span> -->
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <!-- <ngb-progressbar type="primary" [value]="100"></ngb-progressbar> -->
+            <div *ngIf="Loading" class="progress progress-modal">
+                <div role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"
+                    class="progress-bar progress-bar-striped progress-bar-animated bg-primary" style="width: 100%;">
+                </div>
+            </div>
+            <form [formGroup]="userProfile">
+                <!--begin:: Widgets/Finance Summary-->
+                
+                <div class="kt-portlet kt-portlet--height-fluid">
+                    <div class="kt-portlet__head">
+                        <div class="kt-portlet__head-label">
+                            <!-- class="kt-portlet__head-title" -->
+                            <h5 class="kt-widget-username">
+                                Personal Information
+                                <!-- {{ "TRANSLATOR.Personal_Info" | translate }} -->
+                                <!-- <span class="kt-header__topbar-username kt-hidden-mobile" >{{Hamza}}</span> -->
+                            </h5>
+                            <span>Update your personal informaiton</span>
+                        </div>
+                        <div class="card-toolbar">
+                            <button type="submit" class=" btn-save-mg-10 btn btn-success mr-2" (click)="onEdit()">Save
+                                Changes</button>
+                        </div>
+
+                    </div>
+                    <div class="kt-portlet__body">
+                        <div class="kt-widget kt-widget--user-profile-2">
+                            <div class="kt-widget__body">
+                                <div class="kt-widget__item">
+                                    <div class="kt-widget__contact mb-4">
+                                        <h4 class="kt-widget-username"> Profile Info</h4>
+                                    </div>
+                                    <div class="kt-widget__contact mb-4">
+                                        <label class="kt-widget__label">Profile Picture:</label>
+
+                                        <div id="kt_profile_avatar" class="image-input image-input-outline">
+                                            <img class="image-input image-input-outline image-input-wrapper user-image-change"
+                                                [src]="imageUrl">
+                                            <label data-action="change" data-toggle="tooltip" title=""
+                                                data-original-title="Change avatar"
+                                                class="btn btn-xs btn-icon btn-circle btn-white btn-hover-text-primary btn-shadow">
+                                                <i class="fa fa-pen icon-sm text-muted">
+                                                </i>
+                                                <input type="file" #ProfilePicture name="profile_avatar"
+                                                    (change)="onSelectFile($event.target.files)" accept="image/*">
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="kt-widget__contact mb-4">
+                                        <label class="kt-widget__label">First Name:</label>
+                                        <div class="col-lg-9 col-xl-6">
+                                            <input type="text" formControlName="FirstName" [(ngModel)]="FirstName"
+                                                class="form-control form-control-lg form-control-solid ng-untouched ng-pristine ng-valid">
+                                        </div>
+                                    </div>
+                                    <div class="kt-widget__contact mb-4">
+                                        <label class="kt-widget__label">Last Name:</label>
+                                        <div class="col-lg-9 col-xl-6">
+                                            <input type="text" formControlName="LastName" [(ngModel)]="LastName"
+                                                class="form-control form-control-lg form-control-solid ng-untouched ng-pristine ng-valid">
+                                        </div>
+                                    </div>
+                                    <div class="kt-widget__contact mb-4">
+                                        <label class="kt-widget__label">Email:</label>
+                                        <div class="col-lg-9 col-xl-6">
+                                            <input type="text" formControlName="Email" [(ngModel)]="Email"
+                                                class="form-control form-control-lg form-control-solid ng-untouched ng-pristine ng-valid">
+                                        </div>
+                                    </div>
+                                    <div class="kt-widget__contact mb-4">
+                                        <label class="kt-widget__label">Phone Number:</label>
+                                        <div class="col-lg-9 col-xl-6">
+                                            <input type="text" formControlName="PhoneNumber" [(ngModel)]="PhoneNumber"
+                                                class="form-control form-control-lg form-control-solid ng-untouched ng-pristine ng-valid">
+                                        </div>
+                                    </div>
+                                    <div class="kt-widget__contact mb-4">
+                                        <label class="kt-widget__label">Passowrd:</label>
+                                        <div class="col-lg-9 col-xl-6">
+                                            <input type="password" formControlName="Password" [(ngModel)]="Password"
+                                                class="form-control form-control-lg form-control-solid ng-untouched ng-pristine ng-valid">
+                                        </div>
+                                    </div>
+                                    <ngx-dropzone (change)="onSelect($event)">
+                                        <ngx-dropzone-label>Drop it, baby!</ngx-dropzone-label>
+                                        <ngx-dropzone-preview *ngFor="let f of files" [removable]="true" (removed)="onRemove(f)">
+                                            <ngx-dropzone-label>{{ f.name }} ({{ f.type }})</ngx-dropzone-label>
+                                        </ngx-dropzone-preview>
+                                    </ngx-dropzone>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

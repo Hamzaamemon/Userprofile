@@ -1,0 +1,98 @@
+<div class="container" style="padding-top:40px; float: left;">
+  <div class="row">
+    <div class="col-md-10 mx-auto">
+      <div class="card mx-4">
+        <div class="card-head p-4">
+          <div class="col-sm-12 btn btn-success">
+            User Profile
+          </div>
+        </div>
+        <div class="card-body p-4">
+          <!-- (ngSubmit)="onFormSubmit()" -->
+          <form [formGroup]="userProfile">
+            <div class="col-sm-12">
+              <div class="card-body">
+                <div class="col-12 text-right">
+                  <button class="btn btn-primary px-10" type="button" (click)="onLogout()">Logout</button>
+                </div>
+                <div class="Profile-Picture-Center">
+                  <div class="col-md-12">
+                    <input type='file' #logoInput required (change)="onSelectFile($event.target.files)"
+                      accept="image/*" id="upload" hidden />
+                    <label class="btn-success upload" for="upload">Choose Profile Picture</label>
+                  </div>
+                  <br>
+                    <div class="col-md-12">
+                      <img [src]="imageUrl" height="100" width="120">
+                    </div>
+                </div>
+                <div class="form-group ">
+                  <label class="col-sm-2 control-label" for="FirstName">First Name</label>
+                  <div class="col-sm-10">
+                    <input type="text" class="form-control" required placeholder="Enter First name"
+                      formControlName="FirstName" [(ngModel)]="FirstName">
+                    <div *ngIf="submitted && userProfile.controls.FirstName.errors" class="text-danger">
+                      <div *ngIf="userProfile.controls.FirstName.errors.required">First Name is required</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group ">
+                  <label class="col-sm-2 control-label" for="LastName">Last Name</label>
+                  <div class="col-sm-10">
+                    <input type="text" class="form-control" placeholder="Enter Last name" formControlName="LastName"
+                      [(ngModel)]="LastName">
+                    <div *ngIf="submitted && userProfile.controls.LastName.errors" class="text-danger">
+                      <div *ngIf="userProfile.controls.LastName.errors.required">Last Name is required</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group ">
+                  <label class="col-sm-2 control-label" for="Email">Email</label>
+                  <div class="col-sm-10">
+                    <input type="text" class="form-control" placeholder="Enter Email" formControlName="Email"
+                      [(ngModel)]="Email">
+                    <div *ngIf="submitted && userProfile.controls.Email.errors" class="text-danger">
+                      <div *ngIf="userProfile.controls.Email.errors.required">Email is required</div>
+                      <div *ngIf="userProfile.controls.Email.errors.email">Email must be a valid email address</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group ">
+                  <label class="col-sm-6 control-label" for="PhoneNumber">Phone Number</label>
+                  <div class="col-sm-10">
+                    <input type="text" class="form-control" placeholder="Enter Phone" formControlName="PhoneNumber"
+                      [(ngModel)]="PhoneNumber">
+                    <div *ngIf="submitted && userProfile.controls.PhoneNumber.errors" class="text-danger">
+                      <div *ngIf="userProfile.controls.PhoneNumber.errors.required">Phone Number is required</div>
+                      <div *ngIf="userProfile.controls.PhoneNumber.errors.pattern">valid Number is required</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="form-group ">
+                  <label class="col-sm-2 control-label" for="Password">Password</label>
+                  <div class="col-sm-10">
+                    <input type="password" class="form-control" placeholder="Enter Password" formControlName="Password"
+                      [(ngModel)]="Password">
+                    <div *ngIf="submitted && userProfile.controls.Password.errors" class="text-danger">
+                      <div *ngIf="userProfile.controls.Password.errors.required">Password is required</div>
+                    </div>
+                  </div>
+                </div>
+
+
+              </div>
+            </div>
+            <div class="col-6 text-right">
+              <button class="btn btn-primary px-10" type="submit" (click)="onEdit()">Edit Profile </button>
+            </div>
+          </form>
+          <!-- <a routerLink="/Login"> <button class="btn btn-success px-10">Login </button> </a> -->
+        </div>
+        <p class="col-sm-2">{{date}}</p>
+        <p class="col-sm-2">{{temperatureC}}</p>
+        <p class="col-sm-2">{{temperatureF}}</p>
+        <p class="col-sm-2">{{summary}}</p>
+      </div>
+    </div>
+  </div>
+</div>

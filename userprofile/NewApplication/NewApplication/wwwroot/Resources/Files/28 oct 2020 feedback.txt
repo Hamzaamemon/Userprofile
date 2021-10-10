@@ -1,0 +1,78 @@
+-------------------- Farmer --------------------------
+-> login page not responsive (signup link is hiding)
+-> input focus on forget password and reset passsword hiding input field
+-> signup checkbox not aligned  --done
+-> cnic validation should be 13 digits --done in sign up. (make sure to add it register new farmer and worker)
+-> tap on settings highlighting half box --done
+-> word wrap over all 
+-> profile picture change -- done
+-> farmer menu signout and manage files buttons overlapping -- done
+-> settings (icons are same) --done
+-> header shadow (remove on settings) --done
+-> change language (default check english) -- done
+-> close change password after update --done
+-> profile view should be as wireframe (for reference see mobile design ui card on trello 02.pdf) also check color theme --done
+-> farmer type is missing in profile view --done
+-> training numbers should be like 1000 to 1k (every number in application) --done
+-> verification pending is missing --done
+-> default image in edit profile
+-> edit profile page (spacing in label and box)
+-> hide password field in farmer/worker edit profile
+-> pop up header is empty in edit profile
+-> add education should be in a separate box
+-> total count box should be numeric
+-> add padding in bottom
+-> settings data should be updated after edit
+-> deomesticated animals add / delete not working  --done
+
+------------------------ Wroker ---------------------
+
+-> my training feedbacks should not be there in worker and farmer --done
+-> Owner Lane text change to Owned Lands --done
+-> worker profile view (settings icon should be hidden) --done
+-> no work type information on settings (profile) page --done
+-> name (first letter) should be capital --done
+-> account verified with system user code --done
+-> DOB not bound --done
+
+
+-------------------- Trainer ------------------------
+
+-> education deleted working fine, add not working  --done
+-> if groups not available. screen design should be centerally aligned  --done
+-> my farmer group / my worker group label --done
+
+-> refresh button not working --done
+-> group list view should be as wireframe --done
+-> created date not bound on group list --done
+-> refresh icon should be hidden from group details --done
+-> Group details label on header --done
+
+-> Register new farmer heading --done
+
+
+-> show farmer name in list not type --done
+
+-> farmer list pagination on group management --done
+-> farmer list match with wireframes --done
+-> Cancel registration button design -- done
+
+-> email and cnic wil be disabled always in edit --done
+-> showing worker details on profile screen for farmer. should show deomesticated animals  -- done
+-> after cancel registration redirect to group details -- done
+-> check cancel registration group id -- done
+-> redirect to profile page after register new farmer --done
+-> register new farmer validations 
+-> Search field in header in group management 
+-> farmer / worker list in groups design
+-> plus icon design
+-> province/district/tehsil unselect kese kron
+-> farmer type not bound in profile edit 
+
+
+
+--> select from gallery functionality missing in update picture (worker, trainer, farmer)
+
+
+NOTE: 
+after update saba will send response which fields are updated that should be updated in settings

@@ -1,0 +1,148 @@
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.exe
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.csprojAssemblyReference.cache
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.AssemblyInfoInputs.cache
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.AssemblyInfo.cs
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\staticwebassets\NewApplication.StaticWebAssets.Manifest.cache
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\staticwebassets\NewApplication.StaticWebAssets.xml
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.csproj.CopyComplete
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.deps.json
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.runtimeconfig.json
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.runtimeconfig.dev.json
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.pdb
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.pdb
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.genruntimeconfig.cache
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.csproj.CoreCompileInputs.cache
+C:\Users\Aimsol PC\source\repos\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\appsettings.json
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.exe
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.deps.json
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.runtimeconfig.json
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.runtimeconfig.dev.json
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\NewApplication.pdb
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\userprofile\NewApplication\NewApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.csprojAssemblyReference.cache
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.AssemblyInfoInputs.cache
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.AssemblyInfo.cs
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.csproj.CoreCompileInputs.cache
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.RazorTargetAssemblyInfo.cache
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.csproj.CopyComplete
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\staticwebassets\NewApplication.StaticWebAssets.Manifest.cache
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\staticwebassets\NewApplication.StaticWebAssets.xml
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.dll
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.pdb
+E:\userprofile\NewApplication\NewApplication\obj\Debug\netcoreapp3.1\NewApplication.genruntimeconfig.cache
